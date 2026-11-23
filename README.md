@@ -1,9 +1,9 @@
-# lib-ui-bench
+# mytop-ui-bench
 
 Shared code for droidtop, Pythia, Enginehost and droidtop-agent: the HTML test UI and the bench (#867 D9, D12), drawn from droidtop's design and run locally only against a real backend.
 
-One of the shared libraries of Droidtop/tracker#867, in the split the owner approved on 2026-11-21
-(Droidtop/tracker#960, step 1.0). Where its code comes from: split out of lib-ui.
+One of the shared libraries of mytop-project/tracker#867, in the split the owner approved on 2026-11-21
+(mytop-project/tracker#960, step 1.0). Where its code comes from: split out of mytop-ui.
 
 **Shared code with versions, not releases** (owner, 2026-11-21: "these libraries aren't standalone… They're shared
 code", then "we still make pinned versions, we just don't make releases. We can build them for testing and stuff, we
